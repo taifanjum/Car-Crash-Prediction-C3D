@@ -3,7 +3,7 @@ Car crash prediction using the C3D 3D-CNN architecture
 
 # Steps to run the code
 
-Install Anaconda 
+Install Anaconda - https://docs.anaconda.com/anaconda/install/index.html
 
 Clone this repo
 
